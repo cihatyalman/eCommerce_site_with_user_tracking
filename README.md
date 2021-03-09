@@ -14,6 +14,6 @@ Kullanıcıların en çok veya en az hangi kategorileri tercih ettiği veya hang
 #
 Bir e-ticaret [site](https://www.cimri.com/)sine Web Scraping yöntemiyle bağlantı kurularak hazırlanmış bir sistemdir.
 
-Yapılan ürün aramaları bu sitede bulunan ürünlerden tarama yapılarak kullanıcıya ürün listesi veya ürün detayı olarak sunulur.
+Yapılan ürün aramaları bu [site](https://www.cimri.com/)de bulunan ürünlerden tarama yapılarak kullanıcıya ürün listesi veya ürün detayı olarak sunulur.
 
 Sadece backend tarafı sunulmuştur.
