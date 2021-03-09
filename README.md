@@ -12,7 +12,7 @@ Kullanıcıların ürün ararken yapacakları kategori, sıralama gibi tercihler
 Kullanıcıların en çok veya en az hangi kategorileri tercih ettiği veya hangi sıralama türünü kullandıkları gibi bilgileri elde edebileceğiniz bir sistem hazırlanmıştır ve bu sistem WebAPI ile sunulmuştur.
 
 #
-Bir e-ticaret[https://www.cimri.com/] sitesine Web Scraping yöntemiyle bağlantı kurularak hazırlanmış bir sistemdir.
+Bir e-ticaret[site](https://www.cimri.com/)sine Web Scraping yöntemiyle bağlantı kurularak hazırlanmış bir sistemdir.
 
 Yapılan ürün aramaları bu sitede bulunan ürünlerden tarama yapılarak kullanıcıya ürün listesi veya ürün detayı olarak sunulur.
 
