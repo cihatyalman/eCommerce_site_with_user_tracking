@@ -9,6 +9,6 @@ Kullanıcıları takip edebilen E-Ticaret sitesi.
 #
 Kullanıcıların kategori, sıralama gibi tercihlerini kayıt altına alan bir e-ticaret sitesi.
 
-Kullanıcıların en çok veya en az hangi kategorileri tercih ettiği veya hangi sıralama türünü kullandıkları gibi bilgileri elde edebileceğiniz bir sistem hazırlanmıştır.
+Kullanıcıların en çok veya en az hangi kategorileri tercih ettiği veya hangi sıralama türünü kullandıkları gibi bilgileri elde edebileceğiniz bir sistem hazırlanmıştır ve bu sistem WebAPI ile sunulmuştur.
 #
 NOT: Sadece backend tarafı sunulmuştur
