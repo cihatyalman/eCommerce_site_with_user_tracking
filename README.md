@@ -1,4 +1,4 @@
-# e-trade_site_with_user_tracking
+# eCommerce_site_with_user_tracking
 Kullanıcıları takip edebilen E-Ticaret sitesi.
 #
 ### Kullanılan kütüphaneler:
