@@ -4,4 +4,4 @@ from Business.constants.message import Message
 
 class Constant:
 
-    DB_FILE = "DataAccess/database_files/etrade.db"
+    DB_FILE = "DataAccess/database_files/ecommerce.db"
